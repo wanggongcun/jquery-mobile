@@ -20,4 +20,3 @@
 
 //*[@id="three_listview"]/li[35]
 //#three_listview > li:nth-child(35)
-//ui-li-divider ui-bar-inherit
